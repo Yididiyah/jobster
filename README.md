@@ -7,12 +7,17 @@ Job Application Tracker that helps applicants track their job applications in th
 Technologies used:
 
 - React
+- Redux Toolkit
 - React Router
 - Styled Components
 - Recharts
 - Moment
 - Axios
 - Normalize
+
+Deployed Project:
+
+https://lovely-empanada-b339b8.netlify.app/
 
 ### Run The App Locally
 
